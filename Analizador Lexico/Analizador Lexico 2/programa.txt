@@ -1,0 +1,7 @@
+// Ejemplo de programa
+int main() {
+    float resultado = 10.5 + 5;
+    if (resultado > 15) {
+        return 1;
+    }
+}
